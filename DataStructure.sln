@@ -11,7 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-Stack", "Stack\3-Stack.cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-dictionary", "4-dictionary\4-dictionary.csproj", "{E928AA36-AD74-40F8-8F99-E258A25E5535}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5- Hashing", "5- Hashing\5- Hashing.csproj", "{31FC211E-731F-44BD-A722-304E27C59459}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5- Hashing", "5- Hashing\5- Hashing.csproj", "{31FC211E-731F-44BD-A722-304E27C59459}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-HashTabel", "6-HashTabel\6-HashTabel.csproj", "{AEADF910-4C19-4E4E-8B30-F26E664070A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-BinaryTree", "7-BinaryTree\7-BinaryTree.csproj", "{50BAB3EE-1CB0-40A0-B00B-4A508D96A90D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-BinarySearchTree", "8-BinarySearchTree\8-BinarySearchTree.csproj", "{5B2E99E0-F56B-4C24-BE35-B666C1BD8AFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{31FC211E-731F-44BD-A722-304E27C59459}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31FC211E-731F-44BD-A722-304E27C59459}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31FC211E-731F-44BD-A722-304E27C59459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEADF910-4C19-4E4E-8B30-F26E664070A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEADF910-4C19-4E4E-8B30-F26E664070A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEADF910-4C19-4E4E-8B30-F26E664070A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEADF910-4C19-4E4E-8B30-F26E664070A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50BAB3EE-1CB0-40A0-B00B-4A508D96A90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BAB3EE-1CB0-40A0-B00B-4A508D96A90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BAB3EE-1CB0-40A0-B00B-4A508D96A90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BAB3EE-1CB0-40A0-B00B-4A508D96A90D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2E99E0-F56B-4C24-BE35-B666C1BD8AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2E99E0-F56B-4C24-BE35-B666C1BD8AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2E99E0-F56B-4C24-BE35-B666C1BD8AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2E99E0-F56B-4C24-BE35-B666C1BD8AFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
